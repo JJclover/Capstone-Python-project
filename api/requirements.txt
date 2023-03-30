@@ -1,0 +1,10 @@
+SQLAlchemy
+Flask
+gunicorn== 20.1.0
+flask-restx
+pandas
+numpy
+streamlit
+pymysql
+PyYAML
+config

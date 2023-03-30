@@ -1,0 +1,7 @@
+SQLAlchemy
+streamlit
+pandas
+pymysql
+PyYAML
+numpy
+streamlit_authenticator
