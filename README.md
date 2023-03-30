@@ -48,7 +48,7 @@ For the database I use MySQL but you could use MongoDB too.
 
 For the frontend I use Streamlit but you can also create the frontend using JS and CSS.
 
-![Architecture](Final%20Capstone%20project%20118c21014dde44cf81eb5ed8ba0f29ec/Architecture.png)
+![Architecture](Architecture.png)
 
 ## Deploy on Google App Engine
 
